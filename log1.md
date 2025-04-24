@@ -1,6 +1,6 @@
 # Reactor log [12/04/2053]  
 ## All actions are recorded.  
-## [/CLASSIFIED DOCUMENT\]  
+## [CLASSIFIED DOCUMENT\]  
 ### ***LOG START***  
 [15:03]: Reactor startup issued by reactor operating team.  
 [15:05]: Reactor successfuly started. Monitoring system connected to the server.  
